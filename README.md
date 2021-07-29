@@ -15,4 +15,4 @@ A tool to summarizes your text to required number of lines.
 6. Create Sentence Similarity Graph from Sentence Similarity Matrix 
 7. Creating scores from Sentence Similarity Graph
 8. Finally, Sorting sentences in decreasing order of scores and append top n sentences to create summary.
-        Where n is number of lines you want in summary
+            Where n is number of lines you want in summary
